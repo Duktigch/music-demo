@@ -1,7 +1,7 @@
 # music-demo
 
 ## Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
 
 下载网易云音乐node接口项目, 在本地启动, 为vue项目提供数据支持
 ```
